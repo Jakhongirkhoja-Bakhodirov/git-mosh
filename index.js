@@ -3,15 +3,12 @@ let person = {
     last_name:'last_name',
 }
 
-function Person(firstName, lastName) {
+function Person(firstName, lastName , age) {
     this.firstName = firstName;
     this.lastName = lastName;
-
-    this.getFullName = function () {
-        return this.firstName + " " + this.lastName;
-    };
+    this.age = age;
+ 
+    function getAge() {
+        return this.age;
+    }
 }
-
-let person2 = new Person('Bob' , 'Barry');
-
-console.log(person1.getFullName());
