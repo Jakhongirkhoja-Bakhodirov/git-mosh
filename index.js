@@ -12,3 +12,7 @@ function Person(firstName, lastName , age) {
         return this.age;
     }
 }
+
+const person1 = new Person('Jakhongir' , 'Ismoilov' , 21);
+
+console.log(person1);
