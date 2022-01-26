@@ -12,6 +12,6 @@ function Person(firstName, lastName) {
     };
 }
 
-let person1 = new Person('Jane','Doe')
+let person2 = new Person('Bob' , 'Barry');
 
 console.log(person1.getFullName());
