@@ -21,4 +21,4 @@ class User {
     }
 }
 
-const john = new User('John' , 'Doe' , '12');
+const john = new User('John' , 'Doe' , '22');
