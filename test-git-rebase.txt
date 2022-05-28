@@ -1,4 +1,3 @@
 test git rebase 
 test revert deletion commits
-
-create a new bug-fix branch
+test commits when changing branches
