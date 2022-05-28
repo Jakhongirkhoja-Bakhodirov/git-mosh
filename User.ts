@@ -21,6 +21,4 @@ class User {
     }
 }
 
-const john = new User('John' , 'Doe' , '12');
-
-console.log(john);
+const john = new User('John' , 'Doe' , '22');
