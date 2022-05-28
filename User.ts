@@ -20,3 +20,5 @@ class User {
         this.lastName = lastName;
     }
 }
+
+const john = new User('John' , 'Doe' , '12');
