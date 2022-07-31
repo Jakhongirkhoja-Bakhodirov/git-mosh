@@ -1,4 +1,4 @@
-class User {
+class Person {
     private firstName:string;
     private lastName:string
     private age:string;
@@ -21,4 +21,5 @@ class User {
     }
 }
 
-const john = new User('John' , 'Doe' , '12');
+
+const john = new Person('John' , 'Doe' , '21');

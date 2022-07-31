@@ -1,0 +1,2 @@
+add some lines text to the file 
+bug fix upload photo
