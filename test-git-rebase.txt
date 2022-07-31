@@ -6,3 +6,4 @@ change code bug-fix branch
 test merge no-ff
 add message
 bug fix photo upload
+bug fix photo upload
